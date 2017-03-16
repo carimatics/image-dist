@@ -1,4 +1,6 @@
 # Using Docker Code Examples
 ## "Image Distribution"
 
-modified
+Kevin Gaudinのmonsteridを元にしたシンプルなidenticonサーバー。
+Adrinam Mouat著、オライリージャパンの「Using Docker」による。
+
